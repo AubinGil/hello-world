@@ -1,2 +1,2 @@
 # hello-world
-this is my introduction to the data world
+This is my introduction to the data world
